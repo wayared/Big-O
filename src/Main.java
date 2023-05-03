@@ -40,6 +40,7 @@ While i < 3 * n Do
 f(n) = 3n * (40 + n^3/2) = 3n/40 + 3n^4/2
 O(f(n)) = O(n^4)
 
+
  */
 public class Main {
     public static void main(String[] args) {
